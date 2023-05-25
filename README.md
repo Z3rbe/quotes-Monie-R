@@ -10,5 +10,5 @@ A python program that generates programming quotes and jokes.
 
 ## Fork urls
 - `contributor-1`: [quotes-Bonnete-R](url-1)
-- `contributor-2`: [quotes-Monie-R](url-2)
+- `contributor-2`: [quotes-Monie-R](https://github.com/Z3rbe/quotes-Monie-R.git)
 - `contributor-3`: [quotes-Perichon-R](url-3)
