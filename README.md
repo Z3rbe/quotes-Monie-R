@@ -9,6 +9,6 @@ A python program that generates programming quotes and jokes.
 - `contributor-3`: PERICHON Antoine Group R 
 
 ## Fork urls
-- `contributor-1`: [quotes-Bonnete-R](url-1)
+- `contributor-1`: [quotes-Bonnete-R](https://github.com/tutuO1/quotes-Bonnete-R.git)
 - `contributor-2`: [quotes-Monie-R](https://github.com/Z3rbe/quotes-Monie-R.git)
 - `contributor-3`: [quotes-Perichon-R](url-3)
